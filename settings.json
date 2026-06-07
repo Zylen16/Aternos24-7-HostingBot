@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Zylen_16.aternos.me:37406",
+    "ip": "Zylen_16.aternos.me",
     "port": 37406,
     "version": "",
     "try-creative": false
